@@ -1,0 +1,16 @@
+List of references used for the project:
+
+https://stackoverflow.com/questions/6930982/how-to-use-a-variable-inside-a-regular-expression
+https://stackoverflow.com/questions/8934477/making-letters-uppercase-using-re-sub-in-python
+http://www.rexegg.com/regex-disambiguation.html
+https://wiki.openstreetmap.org/wiki
+https://docs.python.org/3/library/xml.etree.elementtree.html
+https://regex101.com/
+https://stackoverflow.com/questions/613183/sort-a-python-dictionary-by-value
+https://taginfo.openstreetmap.org/keys
+https://en.wikipedia.org/wiki/United_Arab_Emirates
+http://www.dubaifaqs.com/list-of-cities-uae.php
+https://stackoverflow.com/questions/1794833/list-of-cities-by-country
+https://www.maxmind.com/en/free-world-cities-database
+https://stackoverflow.com/questions/6531482/how-to-check-if-a-string-contains-an-element-from-a-list-in-python
+https://stackoverflow.com/questions/2392732/sqlite-python-unicode-and-non-utf-data

@@ -1,0 +1,18 @@
+DATA WRANGLING PROJECT: OpenStreetMap Data
+
+Project Data:
+
+The project required to select an 'area of the world in https://www.openstreetmap.org and use data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data'.
+
+Data Description:
+
+I chose to wrangle data from Dubai-Abu Dhabi region from the following link: 
+
+https://s3.amazonaws.com/metro-extracts.mapzen.com/dubai_abu-dhabi.osm.bz2
+
+Dubai and Abu Dhabi are part of a federation of emirates called United Arab Emirates (UAE). UAE is a federal absolute monarchy located at the southeast Arabian Peninsula in Western Asia. It is a federation of seven emirates, namely, Abu Dhabi, Ajman, Dubai, Fujairah, Ras Al Khaimah, Sharjah and Umm Al Quwain.
+
+
+Data Selection Basis:
+
+The reason why I chose to work on this data is because I have stayed around this region since last 10-15 years and am familiar with these places. 
