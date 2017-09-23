@@ -3,7 +3,7 @@
 
 This project map data from Dubai-Abu Dhabi region from [https://www.openstreetmap.org](https://s3.amazonaws.com/metro-extracts.mapzen.com/dubai_abu-dhabi.osm.bz2) and uses data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity to clean the OpenStreetMap data. This clean data was saved to SQL database, as per a pre-specified data schema.
 
-Html report for this project can be accessed [here](https://htmlpreview.github.io/?https://github.com/bisaria/OpenStreetMapProject/blob/master/Project%20Report/OpenStreetMapProject.html#data-exploration).
+Html report for this project can be accessed [here](https://htmlpreview.github.io/?https://github.com/bisaria/OpenStreetMapProject/blob/master/Project%20Report/OpenStreetMapProject.html).
 
 ### PDF file
 
